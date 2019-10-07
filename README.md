@@ -1,5 +1,9 @@
 # flux-experiment-apps
 
+contains apps and related helm charts
+
+## release apps to docker hub
+
 ```
 # prerequisite: docker login
 
